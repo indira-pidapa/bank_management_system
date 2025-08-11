@@ -10,6 +10,7 @@ FEATURES:
 Create new customer accounts
 Deposit and withdraw money
 Check account balance
+Update account details
 View account details
 View all customer information
 Data stored using file handling for persistence
