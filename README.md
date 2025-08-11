@@ -7,13 +7,13 @@ It uses fundamental concepts of C programming such as structures, file handling 
 Further improvements like GUI, password protected, etc can be made.
 
 FEATURES:
-Create new customer accounts
-Deposit and withdraw money
-Check account balance
-Update account details
-View account details
-View all customer information
-Data stored using file handling for persistence
+1.Create new customer accounts 
+2.Deposit and withdraw money 
+3.Check account balance 
+4.Update account details 
+5.View account details 
+6.View all customer information 
+7.Data stored using file handling for persistence 
 
 TECHNOLOGIES USED:
 C Programming Language
